@@ -5,11 +5,15 @@ This folder provides the code used for the deep-learning based super-resolution 
 ## SPIE paper: Diffraction limited to super-resolution using deep-learning 
 Diffraction limited image: BPAE sample
 
-![](Test_images/x1.png)
+![](Test_images/Input_DL_image.png)
 
 Estimated super-resolution image: From Neural network: 
 
-![](Test_images/x2.png)
+![](Test_images/Estimated_SR_VM614.png)
+
+Ture target image: (super-resolution image using SRRF method)
+
+![](Test_images/Target_SR_image.png)
 
 ## Dataset:
 #Images: The training and test dataset of BPAE sample images can be downloaded from here https://curate.nd.edu/show/5h73pv66g4s
