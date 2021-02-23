@@ -2,7 +2,7 @@
 This folder provides the code used for the deep-learning based super-resolution on fluorescence microscopy images using the small datasets 
 
 
-## SPIE paper Diffraction limited to super-resolution using deep-learning BPAE Sample
+## SPIE paper: Diffraction limited to super-resolution using deep-learning 
 Diffraction limited image: BPAE sample
 
 ![](Test_images/imagePhasorHistogram.png)
