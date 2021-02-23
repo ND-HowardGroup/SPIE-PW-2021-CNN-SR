@@ -11,6 +11,10 @@ Estimated super-resolution image: From Neural network:
 
 ![](Test_images/Estimated_SR_VM614.png)
 
+Ture target image: (super-resolution image using SRRF method)
+
+![](Test_images/Target_SR_image.png)
+
 ## Dataset:
 #Images: The training and test dataset of BPAE sample images can be downloaded from here https://curate.nd.edu/show/5h73pv66g4s
 
